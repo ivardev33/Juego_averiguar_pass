@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JUEGO DE ADIVINAR LA CONTRASEÑA/1.0.0": {
+        "runtime": {
+          "JUEGO DE ADIVINAR LA CONTRASEÑA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JUEGO DE ADIVINAR LA CONTRASEÑA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
